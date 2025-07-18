@@ -17,7 +17,7 @@
 
 ## 🧭 Sobre mim
 
-Tenho 30 anos e uma trajetória profissional voltada ao atendimento ao público, atuando como recepcionista e operador de caixa. Há dois anos, decidi recomeçar e direcionar minha carreira para algo que realmente me motiva: a área da tecnologia. Foi então que iniciei o curso de Análise e Desenvolvimento de Sistemas, onde me encontrei. Hoje, estou pronto para dar o próximo passo: conquistar minha primeira oportunidade como desenvolvedor e crescer nesse universo que sempre admirei.
+Tenho 30 anos e uma trajetória profissional voltada ao atendimento ao público, atuando como recepcionista e operador de caixa. Há dois anos, decidi recomeçar e direcionar minha carreira para algo que realmente me motiva: a área da tecnologia. Foi então que iniciei o curso de Análise e Desenvolvimento de Sistemas. Hoje, estou pronto para dar o próximo passo: conquistar minha primeira oportunidade como desenvolvedor e crescer nesse universo que sempre admirei.
 
 ---
 
